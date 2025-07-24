@@ -79,3 +79,18 @@ Hole 16: water right starting at 200. left ob. At this point, I usually have cou
 Hole 17: completely open on left and right. I think the play is to always hit driver and try to leave a 60-90 yard shot in.
 
 Hole 18: OB right. This is usually a driver hole. If I have a buffer in my score (which I never do) this hole would be easier. On the second shot I sometimes try to go for the green over water and ob right. I usually don't hit into water. I have hit it ob right long. If there was no pressure, the play would be to hit break up the 2nd shot (240 to front of green) into multiple shots. Ideal situation again would be for that 70 yard sweet spot.
+
+Can you give me a hole by hole strategy with the yardage to aim for and club to play. Formulate 2 strategies, 1 to just barely break 90 and one to aim for 85. I feel like I have a good swing and should be able to shoot much lower than 90. I've had rounds where I've birded 3-4 holes. Also, I have a sim in my garage, so I can pull up the course and practice some of the holes to find the highest percentage play.
+
+
+Here are my last few rounds 
+Hole,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,Out,In,Total
+White 68.0/123,,,,,,,,,,,,,,,,,,,,,
+Par,4,4,5,3,4,4,4,3,5,4,4,4,3,5,3,4,4,5,36,36,72
+Handicap,11,15,13,7,1,17,9,3,5,8,4,2,18,10,16,12,14,6,,,
+,5,4,8,4,6,3,7,4,8,4,5,5,4,7,4,4,6,5,49,44,93
+,7,5,5,4,5,4,5,4,7,5,6,5,6,6,3,5,5,8,46,49,95
+,6,5,7,4,5,5,6,3,7,5,4,5,4,6,5,4,5,4,48,42,90
+,7,4,5,4,6,3,3,4,8,8,5,6,4,5,4,6,5,7,44,50,94
+
+avg,6.2,4.7,6.2,4.2,5.8,4.7,5.0,4.7,7.0,5.5,5.2,5.2,4.5,6.5,3.7,5.0,5.5,6.7,48.3,47.7,96
