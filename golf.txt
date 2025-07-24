@@ -1,0 +1,81 @@
+Can you do an analysis again with the added yardage information.
+
+Date,Hole,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,Out,In,Total
+
+,White,310,302,440,168,462,310,340,190,501,337,338,394,140,461,158,318,332,513,,,
+
+,Par,4,4,5,3,4,4,4,3,5,4,4,4,3,5,3,4,4,5,36,36,72
+
+,Handicap,11,15,13,7,1,17,9,3,5,8,4,2,18,10,16,12,14,6,,,
+
+,avg,6.2,4.7,6.2,4.2,5.8,4.7,5.0,4.7,7.0,5.5,5.2,5.2,4.5,6.5,3.7,5.0,5.5,6.7,48.3,47.7,96.0
+
+,,,,,,,,,,,,,,,,,,,,,,
+
+,over par,2.2,0.7,1.2,1.2,1.8,0.7,1.0,1.7,2.0,1.5,1.2,1.2,1.5,1.5,0.7,1.0,1.5,1.7,12.3,11.7,24.0
+
+Here are my club distances (carry)
+
+58 deg: bunker only
+
+54 deg: chipping and full swing. I have been practicing 60, 80, 95 yard shots a lot
+
+50 deg: 85, 100, 110
+
+45 deg: 100, 115
+
+PW: 130
+
+9i: 145
+
+8i: 160
+
+7i: 175
+
+6i: 190
+
+5i: 200
+
+3hy: 215
+
+5w: 225
+
+dr: 240-280
+
+Here is some description on my feeling of each hole. There is OB surrounding nearly every hole.
+
+Hole 1: water out right around 240. I've been using 6i or hybrid off tee and that goes well. I'm usually left with 80-100 yrd approach. I have a high percentage of thinning my approach wedge shot over the green. The green is around 10 yards wide circular so I've been thinking that I might need to leave myself a 65-70 yard shot. I'm feeling very good about my 60 yard pitch shot.
+
+Hole 2: fairly open. large hard pan bunker surrounding green, but green is ~15x40 yards so the play is to stay short of bunker off tee and just get the ball on the green.
+
+Hole 3: par 5 dog leg right. missing left is usually better. the hole turns around 230 from tee box so if you hook the ball, it can go ob. Missing right lands you in some trees and it's usually a hard out. The green is big, but hard to stick from 160 out.
+
+Hole 4: par 3 usually plays around 170-180. The play here is to hit standard 7i. it might be smarter to hit 6i 50% to stay under the wind and let the ball roll up. A chip and putt might be the way to play it since bunks are on right and left of the green.
+
+Hole 5: dog leg right down hill. Skinny fairway. Hitting full driver takes it too far. 5 wood is either perfect or can end up in trees if the ball fades too hard. I need to have a strategy to get the ball out there that is higher percentage. I'm thinking that I need to practive 75% driver and find some consistency there (that would be around 230 yard drive). 5 wood has been feeling inconsistent and I sometimes top it off the tee which causes the score to be 6 minimum since the green is very difficult.
+
+Hole 6: short par 4. On the right of the hole you have ob and a hill of rocks next to the cart path. Accidently fades or slices can end up horribly. The right side opens up a bit around 240/250. Lately, I've been using driver and that leaves me with a 60-80 yard shot positined along the major axis of the green. The higher percentage shot is using a 6i off tee that leaves around 90-110.
+
+Hole 7: dog leg right 220 to carry water. my play used to be hybrid followed by a 100 yard approach, but I've learned that being aggresive and carrying the water will leave a 40-60 yard shot. going long on approach is not good and there are bunkers left and right. having a shorter approach makes the miss smaller and gives better chance at getting on green.
+
+Hole 8: downhill par 3 usually around 190-210. This is probably my highest percentage gir for par 3s on the course. The play is to go 6 iron high draw.
+
+Hole 9: par 5 this is a driver hole all the way. You can miss right and still be in some rough. I think the play is to hit a low driver that can roll up as far as possible. There is water 300 yard off tee (not reachable). I have had issues with my second shot using hybrid or 5w. I have issues with topping those clubs and the ball has ran into the water. Going for the green is usually 220 to front and it's blind so I need to force myself to layup to my 65-70 yard distance so i can hit my 60 yard pitch. I would need to hit around 170-190 to get to that 70 yard distance on the next shot.
+
+Hole 10: 337 par 4 the hole fairway is sloping right. I tend to mishit fades alot. The ball can roll off fairway or rough and into trees. OB left so cant mishit a draw. Since the fairway is sloped the ball is under your feet on the 2nd shot. It's difficult to aim correctly. The play might be to practice a chip with a 8i and aim left so the ball just rolls to the front of the green or before it.
+
+Hole 11: pretty open fairway. There is ob left and right. On the right there is a backyard with a huge net that has caught many of my balls. My miss is a push. The backyard is 160-200. around 230 the right side deep rough opens a bit. The play seems to be driver. even going 6i is dangerous since that shot has no chance of making it over that backyard. Ideal play would be low cut driver off heel that rolls to the 70 yard distance I like.
+
+Hole 12: open on left side, ob right off cartpath to the right. green has huge down hill on left side. you can't miss left here.
+
+Hole 13: downhill par 3. I usually use 45 deg
+
+Hole 14: trees on right side of fairway around 220 and end at 250. If you miss right, you are in trees and don't have clear shot to green. I've tried hitting through trees here and it always is bad. I should probably aim left and play into my miss (e.g. try to hit a fade. if its in the fairwayits about 220 to pin so we can break this up and do layup. I have a tendency to hit into the trees and/or top my second shot when i try to use hybrid or 5wood. it doesn't make sense to play that so i should have a new plan
+
+Hole 15: 160 par 3. 9i goes too long. need to hit PW
+
+Hole 16: water right starting at 200. left ob. At this point, I usually have counted my scores and see what i need to do to break 90. I should probably hit 6i or 50% 5i and have PW in
+
+Hole 17: completely open on left and right. I think the play is to always hit driver and try to leave a 60-90 yard shot in.
+
+Hole 18: OB right. This is usually a driver hole. If I have a buffer in my score (which I never do) this hole would be easier. On the second shot I sometimes try to go for the green over water and ob right. I usually don't hit into water. I have hit it ob right long. If there was no pressure, the play would be to hit break up the 2nd shot (240 to front of green) into multiple shots. Ideal situation again would be for that 70 yard sweet spot.
